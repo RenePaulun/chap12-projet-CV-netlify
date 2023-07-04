@@ -1,0 +1,19 @@
+{
+  "name": "chap-12-porjet-cv",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "sass": "node-sass -w scss -o css"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "sass": "^1.63.6"
+  },
+  "devDependencies": {
+    "node-sass": "^9.0.0",
+    "nodemon": "^2.0.22"
+  },
+  "description": ""
+}
